@@ -7,6 +7,7 @@ title = "Code"
 
 [Understanding Tuples in Python 3](https://www.digitalocean.com/community/tutorials/understanding-tuples-in-python-3)
 
-### More Code
+[Object-Oriented Programming in Python 3](https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3)
+
 
 
