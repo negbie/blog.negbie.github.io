@@ -1,0 +1,39 @@
+---
+title: "Hugo blog with RStudio and GitKraken"
+author: "Eugen Bielger"
+date: 2017-04-22
+categories: ["R"]
+tags: ["R Markdown", "GitKraken", "Hugo", "RStudio"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Static site generator Hugo
+
+I was looking for something with which i can save some notes online and publish them. First i tried discourse as a well searchable knowledgebase. It was quite nice and you can get it running in a few minutes as a DigitalOcean droplet or docker container. But i'm not familiar with ruby and i need to maintain still another os. After some time i came across github pages static site generators. First i tried hubpress which was to laggy for me. Jekyll and Octopress are written in ruby 
+
+Use it as a mailing list, discussion forum, long-form
+
+You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+
+# Including Plots
+
+You can also embed plots. See Figure \@ref(fig:pie) for example:
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
