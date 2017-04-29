@@ -1,0 +1,11 @@
+---
+title: test
+author: negbie
+date: '2017-04-29'
+slug: test
+categories:
+  - R
+tags: []
+---
+
+Test post
