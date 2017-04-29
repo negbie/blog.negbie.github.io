@@ -35,6 +35,12 @@ weight                 = -100
 identifier             = "code"
 url                    = "/code/"
 
+[[menu.main]]
+name                   = "Links"
+weight                 = -90
+identifier             = "links"
+url                    = "/links/"
+
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
 i18n_flags             = false                         # whether to display small country flags for available translations
