@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rstudio on negbie.space</title>
+    <link>/tags/rstudio/</link>
+    <description>Recent content in Rstudio on negbie.space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rstudio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo blog with RStudio, GitKraken and Netlify</title>
+      <link>/blog/hugo-blog-with-rstudio-gitkraken-and-netlify/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/hugo-blog-with-rstudio-gitkraken-and-netlify/</guid>
+      <description>Static site generator Hugo I was looking for something with which i can save some notes online and publish them. First i tried discourse as a well searchable knowledgebase. It was quite nice and you can get it running in a few minutes as a DigitalOcean droplet or docker container. But i’m not familiar with ruby and i need to maintain still another os. After some time i came across github pages static site generators.</description>
+    </item>
+    
+  </channel>
+</rss>
