@@ -17,7 +17,7 @@
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/blog/hugo-blog-with-rstudio-gitkraken-and-netlify/</guid>
-      <description>Static site generator Hugo I was looking for something with which i can save some notes online and publish them. First i tried discourse as a well searchable knowledgebase. It was quite nice and you can get it running in a few minutes as a DigitalOcean droplet or docker container. But i’m not familiar with ruby and i need to maintain still another os. After some time i came across github pages static site generators.</description>
+      <description>Choosing a static site generator I was looking for something with which I can save some notes online and publish them. First I tried discourse as a well searchable knowledgebase. It was quite nice and you can get it running in a few minutes as a DigitalOcean droplet or docker container. But I&amp;rsquo;m not familiar with ruby and have to maintain still another os. After some time I came across static site generators.</description>
     </item>
     
   </channel>
