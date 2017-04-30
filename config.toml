@@ -1,5 +1,5 @@
 theme = "cocoa-hugo-theme"
-baseurl             = "http://blog.negbie.space/"
+baseurl             = "https://blog.negbie.space/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
