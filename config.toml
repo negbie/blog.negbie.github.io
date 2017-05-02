@@ -9,7 +9,7 @@ publishdir          = "public"
 author              = "negbie"
 title               = "negbie.space"
 pygmentsuseclasses  = true
-disqusshortname     = "https-blog-negbie-space" # Comment out to disable Disqus.
+#disqusshortname     = "https-blog-negbie-space" # Comment out to disable Disqus.
 pluralizelisttitles = false
 #googleAnalytics     = "UA-123-45"
 
