@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://blog.negbie.space"
 title = ""
 copyright = ""
 
@@ -13,7 +13,7 @@ preserveTaxonomyNames = true
 [params]
   description = "negbie's blog"
   dateFormat = "2006, Jan 2"
-  copyrightOwner = "negbie"
+  copyrightOwner = "build with hugo"
   copyrightStartYear = "2017"
   favicon = "favicon.ico"
   hideEntryNavigation = false
@@ -39,7 +39,7 @@ preserveTaxonomyNames = true
   facebook = ""
 
 [author]
-  name = "Minimo"
+  name = "negbie"
 
 [author.social]
   codepen = ""

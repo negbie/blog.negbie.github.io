@@ -5,26 +5,35 @@
     <link>/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 May 2017 12:00:00 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 26 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example</title>
-      <link>/tags/example/</link>
-      <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
+      <title>Homer</title>
+      <link>/tags/homer/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/example/</guid>
+      <guid>/tags/homer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>/tags/lorem-ipsum/</link>
-      <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
+      <title>Influxdb</title>
+      <link>/tags/influxdb/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lorem-ipsum/</guid>
+      <guid>/tags/influxdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kamailio</title>
+      <link>/tags/kamailio/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kamailio/</guid>
       <description></description>
     </item>
     

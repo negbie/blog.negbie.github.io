@@ -4,17 +4,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/typography/</loc>
-    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
+    <loc>/blog/metrics-with-homer-kamailio-and-influxdb/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,26 +23,32 @@
   </url>
   
   <url>
-    <loc>/tags/example/</loc>
-    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
+    <loc>/tags/homer/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/lorem-ipsum/</loc>
-    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
+    <loc>/tags/influxdb/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kamailio/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/metrics/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/typography/</loc>
-    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
