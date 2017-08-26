@@ -1,65 +1,69 @@
-theme = "cocoa-hugo-theme"
-baseurl             = "https://blog.negbie.space/"
-builddrafts         = false
-canonifyurls        = true
-contentdir          = "content"
-languageCode        = "en-US"
-layoutdir           = "layouts"
-publishdir          = "public"
-author              = "negbie"
-title               = "negbie.space"
-pygmentsuseclasses  = true
-#disqusshortname     = "https-blog-negbie-space" # Comment out to disable Disqus.
-pluralizelisttitles = false
-#googleAnalytics     = "UA-123-45"
+baseURL = "http://www.example.com"
+title = ""
+copyright = ""
 
-[permalinks]
-fixed = ":title/"
-blog  = "blog/:slug/"
+theme = "minimo"
 
-[[menu.main]]
-name                   = "Blog"
-weight                 = -120
-identifier             = "blog"
-url                    = "/blog/"
+disqusShortname = ""
+googleAnalytics = ""
+Paginate = 5
 
-[[menu.main]]
-name                   = "About"
-weight                 = -110
-identifier             = "about"
-url                    = "/about/"
-
-[[menu.main]]
-name                   = "Code"
-weight                 = -100
-identifier             = "code"
-url                    = "/code/"
-
-[[menu.main]]
-name                   = "Links"
-weight                 = -90
-identifier             = "links"
-url                    = "/links/"
+preserveTaxonomyNames = true
 
 [params]
-latestpostscount       = 5                             # how many posts to display on the home page
-i18n_flags             = false                         # whether to display small country flags for available translations
-author                 = ""
-cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
-dateform               = "Jan 2, 2006"
-dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-description            = "Don't panic"
-#email                  = "nope"
-extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
-faviconfile            = "img/negbie.ico"
-github                 = "//github.com/negbie"
-highlightjs            = true
-lang                   = "en"
-#linkedin               = "//linkedin.com/in/you"
-noshowreadtime         = true                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "negbie.space"                            # appears in the site header when set to a non-empty string
-#twitter                = "//twitter.com/eugen_apk"
-# highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
+  description = "negbie's blog"
+  dateFormat = "2006, Jan 2"
+  copyrightOwner = "negbie"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+  hideSocialMenu = true
+  showReadTime = false
 
-avatar                 = "img/negbie.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
-# gravatar             = ""                # do not use in the same time as avatar
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "Minimo"
+
+[author.social]
+  codepen = ""
+  email = ""
+  facebook = ""
+  github = "negbie"
+  instagram = ""
+  twitter = "eugen_apk"
+
+[permalinks]
+  page = "/:slug/"
+
+[[menu.main]]
+  name = "GitHub"
+  weight = -70
+  identifier = "repository"
+  url = "https://github.com/negbie"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
